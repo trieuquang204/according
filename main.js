@@ -20,3 +20,30 @@ function according() {
   });
 }
 according();
+
+
+
+
+// const rotate = (arr, count = 1) => {
+//   return [...arr.slice(count, arr.length), ...arr.slice(0, count)];
+// };
+
+// const arr = [1,2,3,4,5];
+
+// console.log(rotate(arr, 1));
+
+
+
+// const fruits = [1,2,3,4,5];
+// const N = 2;
+// for(let i = 0;i < N; i++){
+    
+//     // Remove first element
+//     let firstElement = fruits.shift()
+    
+//     // Append first element at the last
+//     fruits.push(firstElement);
+    
+// }
+// console.log(fruits);
+
